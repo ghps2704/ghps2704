@@ -3,7 +3,7 @@ Olá 👋
 Meu nome é Guilherme Henrique e atualmente eu:
 
 - 🔭 Trabalho como estágiario de desenvolvimento PHP e MySQL na empresa Imobase
-- 🌱 Desde que comecei minha faculdade me aprofundei bastante em PHP, porém estes últimos tempos eu estou aprendendo outras, como por exemplo React
+- 🌱 Desde que comecei minha faculdade me aprofundei bastante em PHP, porém estes últimos tempos eu estou aprendendo outras, assim como Ciência de Dados
 - 💬 Se quiser entrar em contato, me mande um e-mail no botão que deixei abaixo 😊 
 
  <div>
