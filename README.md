@@ -6,24 +6,6 @@ Meu nome é Guilherme Henrique e atualmente eu:
 - 🌱 Desde que comecei minha faculdade me aprofundei bastante em PHP, porém estes últimos tempos eu estou aprendendo outras, assim como Ciência de Dados
 - 💬 Se quiser entrar em contato, me mande um e-mail no botão que deixei abaixo 😊 
 
- <div>
-  <a href="https://github.com/ghps2704">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ghps2704&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghps2704&layout=compact&langs_count=7&theme=radical" />
-</div>
-
-<div>
-</div>
- <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gui-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Gui-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Gui-ORACLE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-</div>
 
   ##
 
