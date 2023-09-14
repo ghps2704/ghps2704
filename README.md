@@ -2,7 +2,7 @@ Olá 👋
 
 Meu nome é Guilherme Henrique e atualmente eu:
 
-- 🔭 Trabalho como Estagiário de desenvolvedor em Arquiterura de Software na empresa Bis2Bis.
+- 🔭 Trabalho como Estagiário de Desenvolvedor em Arquitetura de Software na empresa Bis2Bis.
 - 🌱 Desde que comecei minha faculdade me aprofundei bastante em PHP, porém estes últimos tempos eu estou aprendendo outras, assim como Ciência de Dados
 - 💬 Se quiser entrar em contato, me mande um e-mail no botão que deixei abaixo 😊 
 
