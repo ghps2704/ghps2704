@@ -1,10 +1,8 @@
 # Olá, sou o Guilherme Persuhn 👋
 
-**Desenvolvedor Front-End focado em React, TypeScript & Experiências Interativas.**
+**Desenvolvedor Front-End | React, TypeScript & Experiências Interativas**
 
-Sou um desenvolvedor apaixonado por construir interfaces digitais fluidas e impactantes. Com um background analítico vindo do mercado financeiro (Day Trading), trago uma abordagem focada e detalhista para o desenvolvimento de software.
-
-Atualmente, meu foco é no ecossistema Front-End moderno, utilizando ferramentas como React e TypeScript para transformar ideias em realidade e resolver problemas de forma criativa.
+Sou um desenvolvedor front-end com foco na criação de experiências digitais fluidas e memoráveis. Combinando uma base analítica do mercado financeiro com uma paixão por tecnologia, eu me especializo em transformar designs em aplicações web interativas e responsivas, utilizando o que há de mais moderno no ecossistema React.
 
 ---
 
@@ -20,10 +18,60 @@ Atualmente, meu foco é no ecossistema Front-End moderno, utilizando ferramentas
 
 ---
 
-### 🔭 Atualmente trabalhando em...
+### 🏆 Projetos em Destaque
 
-- 👨‍💻 **Meu Portfólio Pessoal:** Onde testo novas tecnologias e exibo meus projetos. (Você está aqui!)
-- 👩‍💻 **Portfólio para Psicóloga:** Um portfólio profissional e interativo para uma psicóloga, construído com React, Tailwind e Framer Motion.
+Aqui estão alguns projetos que construí e que demonstram minhas habilidades.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Portfólio Pessoal Interativo</h3>
+      <p align="center">
+        <a href="https://github.com/ghps2704/Meu-Portfolio" target="_blank">
+        </a>
+        <br />
+        <p align="center">
+          Um portfólio de página única com navegação "full-page scroll", animações complexas, cursor interativo e layout totalmente responsivo, construído para ser a minha vitrine de habilidades.
+        </p>
+        <p align="center">
+          <a href="https://github.com/ghps2704/Meu-Portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-black?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://github.com/ghps2704/Meu-Portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20Ao%20Vivo-cyan?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Portfólio para Psicóloga</h3>
+      <p align="center">
+        <a href="https://portfolio-adriana-gold.vercel.app/" target="_blank">
+          <img src="https://github.com/ghps2704/portfolio-adriana/blob/main/public/print-porfolio-psicologa.png?raw=true" alt="Prévia do Portfólio da Psicóloga"/>
+        </a>
+        <br />
+        <p align="center">
+          Um site profissional e acolhedor para uma psicóloga, com foco em transmitir confiança. Inclui animações de entrada, rolagem suave e design responsivo.
+        </p>
+        <p align="center">
+          <a href="https://github.com/ghps2704/portfolio-adriana" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-black?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href="https://portfolio-adriana-gold.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20Ao%20Vivo-gray?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+![Estatísticas do GitHub de Guilherme](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Linguagens Mais Usadas por Guilherme](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula)
 
 ---
 
