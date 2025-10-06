@@ -57,7 +57,7 @@ Aqui estão alguns projetos que construí e que demonstram minhas habilidades.
             <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-black?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
           <a href="https://portfolio-adriana-gold.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20Ao%20Vivo-gray?style=for-the-badge&logo=vercel&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Ver%20Ao%20Vivo-cyan?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
       </p>
