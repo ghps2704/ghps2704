@@ -23,7 +23,7 @@ Atualmente, meu foco é no ecossistema Front-End moderno, utilizando ferramentas
 ### 🔭 Atualmente trabalhando em...
 
 - 👨‍💻 **Meu Portfólio Pessoal:** Onde testo novas tecnologias e exibo meus projetos. (Você está aqui!)
--  psicologia/`: Um portfólio profissional e interativo para uma psicóloga, construído com React, Tailwind e Framer Motion.
+- 👩‍💻 **Portfólio para Psicóloga:** Um portfólio profissional e interativo para uma psicóloga, construído com React, Tailwind e Framer Motion.
 
 ---
 
