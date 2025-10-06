@@ -37,7 +37,7 @@ Aqui estão alguns projetos que construí e que demonstram minhas habilidades.
           <a href="https://github.com/ghps2704/Meu-Portfolio" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-black?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://github.com/ghps2704/Meu-Portfolio" target="_blank">
+          <a href="https://guilhermepersuhn.com.br" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Ao%20Vivo-cyan?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
