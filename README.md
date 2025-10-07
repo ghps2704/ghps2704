@@ -27,18 +27,17 @@ Aqui estão alguns projetos que construí e que demonstram minhas habilidades.
     <td colspan="2" width="100%">
       <h3 align="center">Quantum Store (E-commerce Front-End)</h3>
       <p align="center">
-        <a href="[LINK_DO_DEPLOY_ECOMMERCE]" target="_blank">
-          <img src="[LINK_PARA_O_GIF_DO_ECOMMERCE]" alt="Prévia do Projeto de E-commerce"/>
+        <a href="https://quantum-store-psi.vercel.app/" target="_blank">
         </a>
         <br />
         <p align="center">
           Um projeto de e-commerce completo construído com React, com carrinho persistente, filtros, busca, ordenação, páginas dinâmicas, animações e um tema customizado.
         </p>
         <p align="center">
-          <a href="[LINK_DO_REPOSITORIO_ECOMMERCE]" target="_blank">
+          <a href="https://github.com/ghps2704/QuantumStore" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-black?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="[LINK_DO_DEPLOY_ECOMMERCE]" target="_blank">
+          <a href="https://quantum-store-psi.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Ver%20Ao%20Vivo-purple?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
