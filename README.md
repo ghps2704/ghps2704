@@ -49,7 +49,6 @@ Aqui estão alguns projetos que construí e que demonstram minhas habilidades.
       <h3 align="center">Portfólio Pessoal Interativo</h3>
       <p align="center">
         <a href="https://guilhermepersuhn.com.br" target="_blank">
-          <img src="[LINK_PARA_O_GIF_DO_SEU_PORTFOLIO]" alt="Prévia do Portfólio Pessoal"/>
         </a>
         <br />
         <p align="center">
@@ -69,7 +68,6 @@ Aqui estão alguns projetos que construí e que demonstram minhas habilidades.
       <h3 align="center">Portfólio para Psicóloga</h3>
       <p align="center">
         <a href="https://portfolio-adriana-gold.vercel.app/" target="_blank">
-          <img src="https://github.com/ghps2704/portfolio-adriana/raw/main/public/print-porfolio-psicologa.png?raw=true" alt="Prévia do Portfólio da Psicóloga"/>
         </a>
         <br />
         <p align="center">
