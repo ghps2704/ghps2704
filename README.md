@@ -86,14 +86,6 @@ Aqui estão alguns projetos que construí e que demonstram minhas habilidades.
   </tr>
 </table>
 
----
-### 📊 Minhas Estatísticas no GitHub
-
-![Estatísticas do GitHub de Guilherme](https://github-readme-stats.vercel.app/api?username=ghps2704&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Linguagens Mais Usadas por Guilherme](https://github-readme-stats.vercel.app/api/top-langs/?username=ghps2704&layout=compact&langs_count=7&theme=dracula)
-
----
-
 ### 📫 Fale Comigo
 
 <a href="https://instagram.com/gui_hps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
